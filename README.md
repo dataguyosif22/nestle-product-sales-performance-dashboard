@@ -93,4 +93,3 @@ A product manager or commercial analyst could use this dashboard to prioritize w
 - **Year-over-year figures not fully confirmed.** The three annual revenue values ($8.7M, $12.6M, $9.5M) were read from the chart, but their exact year labels (2018/2019/2020) were not independently confirmed.
 - **State-level figures partially captured.** Victoria and ACT figures were legible; other states' exact values, and the meaning of the "100%" and "8.8%" labels on the location chart, were not confirmed.
 - **Underlying data model not accessible** — DAX measures and table relationships behind the visuals cannot be reviewed from the public viewer link.
-- **No screenshots included yet** (see `screenshots/README.md`).
